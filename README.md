@@ -25,4 +25,8 @@
 ### 📫 Bana Ulaşın:
 - [LinkedIn Profilim](https://linkedin.com/in/samet-akdemir-2b05a9354)
 
-![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametwoll&show_icons=true&theme=radical)
+### 📊 GitHub İstatistiklerim
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sametwoll&show_icons=true&theme=radical&hide_border=false" alt="Samet's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametwoll&layout=compact&theme=radical&hide_border=false" alt="Samet's Top Languages" />
+</p>
