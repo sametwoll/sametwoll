@@ -24,3 +24,5 @@
 
 ### 📫 Bana Ulaşın:
 - [LinkedIn Profilim](https://linkedin.com/in/samet-akdemir-2b05a9354)
+
+![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametwoll&show_icons=true&theme=radical)
